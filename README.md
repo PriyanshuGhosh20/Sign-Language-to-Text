@@ -1,6 +1,7 @@
 # Sign-Language-to-Text
 
 Project converts American sign language to text in realtime. It uses CNN to train the required models for prediction. The dataset is custom made.
+Works well but needs furthur optimization and upgradation.
 
 dataset : Create a data folder in the main folder with train & test folders in data folder.
 - train : https://drive.google.com/drive/u/1/folders/1-XTAjPPRPFeRqu3848z8dMXaolILWizn
